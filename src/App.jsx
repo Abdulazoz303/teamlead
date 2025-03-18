@@ -9,6 +9,7 @@ function App() {
   return (
     <>
     <h1>Initil code</h1>
+    <h2>Abdulaziz updated</h2>
     </>
   )
 }
